@@ -1,6 +1,6 @@
 # ⚡ TaskFlow — Kanban REST API
 
-A production-ready Kanban project management REST API built with **Spring Boot 3**, **MySQL**, and **JWT authentication**.
+A personal Kanban REST API built with **Spring Boot 3**, **MySQL**, and **JWT authentication**. It is a learning project: there is no test suite and no deployment.
 
 ## 🧰 Tech Stack
 `Java 17` · `Spring Boot 3` · `Spring Security` · `MySQL 8` · `JPA / Hibernate` · `JWT` · `Maven`
@@ -72,5 +72,5 @@ curl http://localhost:8080/api/tasks \
 ```
 
 ## 👤 Author
-**Lalit Gonji** · Software Engineer · Sydney, Australia  
-[github.com/lalitgonji](https://github.com/lalitgonji) · [linkedin.com/in/lalitgonji](https://linkedin.com/in/lalitgonji)
+**Lalit Gonji** · Sydney, Australia  
+[github.com/La-lit2001](https://github.com/La-lit2001) · [linkedin.com/in/lalit-gonji](https://www.linkedin.com/in/lalit-gonji/)
